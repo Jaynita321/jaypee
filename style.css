@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: 0;
+}
+.navbar {
+    background-color: red;
+}
+.tindog{
+    color: white;
+    text-decoration: none;
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 50px;
+    margin-left: 150px;
+}
+.price{
+    color: white;
+    text-decoration: none;
+ margin-left: 30px;
+}
+.download{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+
+}
+.contact{
+    color: white;
+    text-decoration: none;
+margin-left: 300px;
+}
+.first{
+    background-color: red;
+   height: 52vh;
+}
+.new{
+    display: inline-block;
+    color: white;
+    margin-left: 150px;
+    margin-right: 500px;
+    padding-top: 40px;
+    font-size: 50px;
+    font-weight: 400;
+}
+.down{
+   margin-left: 170px;
+    background-color: black;
+    color: white;
+    padding: 0 15px;
+    height: 35px;
+    width: 125px;
+    bottom:350px ;
+    border-radius: 5px;
+    border-color: rgb(136, 134, 134);
+    margin-bottom: 100px;
+    float: left;
+    font-size: 13px;
+}
+.load{
+   
+   margin-left: 10px;
+    background-color: red;
+    color: white;
+    padding: 0 15px;
+    height: 35px;
+    width: 125px;
+    bottom:350px ;
+    left: 159px;
+    border-radius: 5px;
+    border-color: rgb(76, 72, 72);
+    float: left;
+    font-size: 13px;
+}
+.firstimg{
+    margin-top:-7px;
+display: block;
+margin-left:-450px ;
+
+    height: 350px;
+    width: 200px;
+
+    transform: rotate(20deg);
+}
+.fcontainer{
+    display: flex;
+    flex-direction: row;
+}
+.white{
+    background-color: white;
+    position: relative;
+     z-index: 999;
+     height: 72vh;
+     flex-direction: row;
+    display: flex;
+}
+
+
+.check{
+    
+    color: red;
+    font-size: 50px;
+   margin-left: 86px;
+}
+.ck{
+   margin-right: 20px;
+    margin-top: 120px;
+    margin-left:60px ;
+}
+.bull{
+    margin-top: 120px;
+  
+    margin-left: 80px;
+}
+.hrt{
+    margin-left: 20px;
+   
+    margin-top: 120px;
+   margin-right: 100px;
+}
+.eye{
+    color: red;
+    font-size: 50px;
+    margin-left: 90px;
+}
+.love{
+    color: red;
+    font-size: 50px;
+  margin-left: 120px;
+}
+.easy{
+font-size: 25px;
+text-align: center;
+}
+.elite{
+    font-size: 25px;
+    text-align: center
+}
+.guaranteed{
+    font-size: 25px;
+    text-align: center;
+    margin: 0 40px;
+}
+.small{
+font-size: 14px;
+text-align: center;
+margin: 0 39px;
+}
+.we{
+    font-size: 14px;
+    text-align: center;
+    margin: 0 39px;
+}
+.find{
+    font-size: 14px;
+    text-align: center;
+    margin: 0 49px;
+}
+.third{
+    background-color: red;
+    height: 45vh;
+}
+.sniff{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.woof{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.sndimg{
+   margin-left: 450px; 
+   width: 70px;
+   height: 70px;
+   border-radius: 100%;
+   margin-top: 10px;
+}
+.peb{
+    margin-left: 20px;
+    color: white;
+}
+.four{
+    height:12vh;
+}
+.my{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px
+}
+.bi{
+    
+    margin-left: 450px; 
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin-top: 10px;
+}
